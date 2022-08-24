@@ -1,0 +1,190 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.first-sect{
+    background-image: url("images/donation13.jpg");
+    height: 700px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+.heading {
+    margin-top: 200px;
+    text-align: center;
+    color: white;
+    font-size: 70px;
+    margin-bottom: 0px;
+    
+}
+.mini-text{
+    
+    font-size: 15px;
+    text-align: center;
+    color: whitesmoke;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.my-button{
+    font-size: 15px;
+    background-color: rgb(247, 129, 129);
+    padding: 10px 10px ;
+    border: hidden;
+    border-radius: 5px;
+    color: white;
+    margin-left: 45%;
+}
+.donate{
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+}
+.mini-text-blackish{
+    font-size: 15px;
+    text-align: center;
+    color: gray;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.amount{
+    display: flex;
+   
+    margin-left: 30%;
+}
+.amount-specific{
+    padding: 25px 10px;
+    margin-left: 30px;
+    
+    color: rgb(138, 136, 136);
+    font-weight: bold;
+
+   
+}
+.special-tk{
+    border: 1px solid rgb(219, 130, 130);
+    color: rgb(219, 130, 130);
+    background-color: rgb(245, 238, 238);
+}
+hr{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.other-amount p{
+    text-align: center;
+}
+.special-items{
+    display: flex;
+    margin-left: 20%;
+    margin-right: 12%;
+}
+.item img{
+    height: 60px;
+    width: 60px;
+}
+.item{
+
+    width: 25%;
+    height: 300px;
+    padding: 10px 10px;
+    margin: 10px 10px;
+    
+
+}
+.item-one{
+    background-color: rgb(202, 233, 233);
+}
+.item-two{
+    background-color: rgb(240, 204, 204);
+}
+.item-three{
+    background-color: rgb(211, 231, 175);
+}
+.main-form{
+    
+    background-color: antiquewhite;
+    padding: 50px 50px;
+    margin: 0px 25% ;
+    text-align: center;
+    border-radius: 5px;
+    
+}
+.main-form input {
+    background-color: rgb(216, 211, 211);
+    border: hidden;
+    padding: 10px 10px;
+   
+    width: 300px;
+    border-radius: 5px;
+    
+}
+.my-input{
+    font-size: 15px;
+    background-color: rgb(247, 129, 129);
+    padding: 10px 10px ;
+    border: hidden;
+    border-radius: 5px;
+    color: white;
+    margin-left: 0%;
+}
+.footer{
+    background-color: black;
+    height: 180px;
+}
+.footer h1{
+    padding-top: 40px;
+    color: rgb(233, 144, 144);
+    font-size: 30px;
+    text-align: center;
+}
+.footer p{
+    color: white;
+    font-size: 15px;
+    padding-bottom: 25px;
+    text-align: center;
+}
+.team-work{
+    display: flex;
+    margin-left: 10%;
+}
+.team-work img{
+    height: 350px;
+    width: 300px;
+    margin-left: 50px;
+}
+.image-two{
+    margin-top: 80px;
+}
+.image-three{
+    margin-top: 10px;
+}
+.unique-width img{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    border: 1px solid green;
+    padding: 25px;
+    margin-right: 10px;
+    margin-top: 40px;
+}
+.unique-width{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+}
+.unique-image-width{
+    background-color: #faebd7;
+}
+.our-works{
+    margin-left: 20%;
+    margin-right: 20%;
+    display: flex;
+}
+.half-image{
+
+    width: 100%;
+    height: 500px;
+    margin-top: 20px;
+}
